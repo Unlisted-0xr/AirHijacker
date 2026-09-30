@@ -23,7 +23,7 @@ def show_banner():
 print(Fore.CYAN + Style.BRIGHT + """
 ────────────────────────────────────────────────────────
    ------ WordList Creater ------
-   Author      : BlackHatRihaans
+   Author      : Sorry I am Anonymous
 ────────────────────────────────────────────────────────
 """ + Style.RESET_ALL)
 
