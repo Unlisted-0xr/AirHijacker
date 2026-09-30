@@ -65,7 +65,7 @@ The author assumes no liability for misuse.
 
 <h1 align="center">Author</h2>
 
-BlackHatRihaan
+Cross Blakes
 Offensive Security • Wireless Security Research
 Tooling • Attack Simulation • Ethical Hacking
 
