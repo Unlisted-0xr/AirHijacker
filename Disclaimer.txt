@@ -1,6 +1,6 @@
 Tool Name: [AirHijacker]
 Version: [v1.0]
-Author: [BlackHatRihaan]
+Author: [CrossBx]
 Date: [10:10:24]
 
 1. Usage Terms
