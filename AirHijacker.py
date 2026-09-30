@@ -25,7 +25,7 @@ def show_banner():
 ────────────────────────────────────────────────────────
    AirHijacker | Wireless Security Assessment Tool
    Mode        : Active Wi-Fi Attack Simulation
-   Author      : BlackHatRihaan 💀
+   Author      : Cross
 ────────────────────────────────────────────────────────
 """ + Style.RESET_ALL)
 
